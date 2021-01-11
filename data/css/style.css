@@ -1,0 +1,47 @@
+.btn {
+    font-family: Stardos Stencil;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+}
+.image_lycee_montplaisir_valence_1{
+    width: 100%;
+}
+.google1{
+    width: 100%;
+    margin-bottom: 1rem;
+}
+.google2{
+    width: 100%;
+}
+.card{
+    background-color:#325d88;
+    color: white;
+}
+.card-title{
+    font-size: 28px;
+    font-weight: bold;
+}
+.danscard{
+    font-size: 25px;
+}
+
+@media screen and (max-width: 768px)
+{
+    .btn {
+        font-family: Stardos Stencil;
+        font-size: 10px;
+        line-height: 20px;
+        text-align: center;
+    }
+    .card-title{
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .danscard{
+        font-size: 15px;
+    }    
+    .card{
+        margin-bottom: 2rem;
+    }
+}
