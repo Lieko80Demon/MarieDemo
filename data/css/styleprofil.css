@@ -1,0 +1,131 @@
+body {
+    background-color: #C53232;
+    background-image: url(DSC02434.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+
+}
+/*================================================================================
+Profil des étudiants
+==================================================================================*/
+.card-profil {
+    font-size: 3rem;
+}
+.card_page {
+    background-color: transparent;
+    color: rgba(255, 255, 255, 0.788);
+    font-family: Stardos Stencil;
+    font-weight: bold;
+    text-align: right;
+    border-color: transparent;
+    top: 20px;
+}
+.Ellipse_18 {
+    position: absolute;
+    right: 0;
+}
+
+/*================================================================================
+parcours d’origine des étudiants
+==================================================================================*/
+.card-origine {
+    font-size: 3rem;
+}
+.card_titre {
+    background-color: black;
+    color: white;
+    font-family: Stardos Stencil;
+    font-weight: bold;
+    text-align: center;
+    width: 55rem;
+    border-color: transparent;
+    top: 20px;
+    left:100px;
+}
+/*================================================================================
+       1 ère année (2020/2021) : 
+==================================================================================*/
+.card-annee {
+    font-size: 2.5rem;
+}
+.card_premiere_annee {
+    background-color:rgba(234, 201, 30, 0.65);
+    font-family: Stardos Stencil;
+    color: #000;
+    text-align: center;
+    width: 35rem;
+    height: 35rem;
+    border-radius: 20%;
+    border-color: transparent;
+    padding-top: 3rem;
+}
+
+/*================================================================================
+         2ème année (2019/2020) : 
+==================================================================================*/
+.card_seconde_annee {
+    background-color: rgba(197, 50, 50, 0.74);
+    color: white;
+    font-family: Stardos Stencil;
+    text-align: center;
+    width: 35rem;
+    height: 35rem;
+    border-radius: 20%;
+    border-color: transparent;
+    padding-top: 3rem;
+
+}
+
+/*================================================================================
+card_paragraphe
+==================================================================================*/
+.card-bodyparagraphe {
+    font-size: 1.8rem;
+}
+.card_paragraphe {
+    background-color: transparent;
+    font-family: Stardos Stencil;
+    color: #000;
+    text-align: center;
+    width: 40rem;
+    border-color: transparent;
+    left: 4rem;
+    margin-top: 20rem;
+}
+.Ellipse_13 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+
+/*================================================================================
+card_objectif
+==================================================================================*/
+.card-bodyobjectif {
+    font-size: 3rem;
+}
+.card_objectif {
+    background-color:  #862323;
+    color: white;
+    font-family: Stardos Stencil;
+    width: 35rem;
+    border-color: transparent;
+    left: 4rem;
+    margin-top: 15rem;
+}
+.Objectifs {
+    text-align: center;
+}
+.drapeaux {
+    margin-left: 3rem;
+}
+.equipe {
+    margin-right: 3rem;
+    float: right;
+    }
+.travaille {
+    padding-top: 12.5rem;
+    margin-left: 3rem;
+}
