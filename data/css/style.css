@@ -1,8 +1,16 @@
+@font-face {
+    font-family: "Stardos";
+    src: url("StardosStencil-Regular.ttf") format("truetype");
+   }
+
 .btn {
-    font-family: Stardos Stencil;
+    font-family: "Stardos";
     font-size: 20px;
     line-height: 50px;
     text-align: center;
+}
+.trouver {
+    font-family: "Stardos";
 }
 .image_lycee_montplaisir_valence_1{
     width: 100%;
@@ -17,6 +25,7 @@
 .card{
     background-color:#325d88;
     color: white;
+    font-family: "Stardos";
 }
 .card-title{
     font-size: 28px;
@@ -29,7 +38,7 @@
 @media screen and (max-width: 768px)
 {
     .btn {
-        font-family: Stardos Stencil;
+        font-family: "Stardos";
         font-size: 10px;
         line-height: 20px;
         text-align: center;

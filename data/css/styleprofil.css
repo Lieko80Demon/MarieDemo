@@ -1,21 +1,25 @@
+@font-face {
+    font-family: "Stardos";
+    src: url("StardosStencil-Regular.ttf") format("truetype");
+   }
+
 body {
     background-color: #C53232;
     background-image: url(DSC02434.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: top;
-
 }
 /*================================================================================
 Profil des étudiants
 ==================================================================================*/
 .card-profil {
-    font-size: 3rem;
+    font-size: 2.7rem;
 }
 .card_page {
     background-color: transparent;
     color: rgba(255, 255, 255, 0.788);
-    font-family: Stardos Stencil;
+    font-family: "Stardos";
     font-weight: bold;
     text-align: right;
     border-color: transparent;
@@ -25,33 +29,36 @@ Profil des étudiants
     position: absolute;
     right: 0;
 }
-
 /*================================================================================
 parcours d’origine des étudiants
 ==================================================================================*/
 .card-origine {
-    font-size: 3rem;
+    font-size: 2.7rem;
 }
 .card_titre {
     background-color: black;
     color: white;
-    font-family: Stardos Stencil;
+    font-family: "Stardos";
     font-weight: bold;
     text-align: center;
     width: 55rem;
     border-color: transparent;
     top: 20px;
     left:100px;
+    margin-bottom: 10rem;
 }
 /*================================================================================
        1 ère année (2020/2021) : 
 ==================================================================================*/
+.Polygon_1 {
+    margin-bottom: 3rem;
+}
 .card-annee {
     font-size: 2.5rem;
 }
 .card_premiere_annee {
     background-color:rgba(234, 201, 30, 0.65);
-    font-family: Stardos Stencil;
+    font-family: "Stardos";
     color: #000;
     text-align: center;
     width: 35rem;
@@ -60,23 +67,23 @@ parcours d’origine des étudiants
     border-color: transparent;
     padding-top: 3rem;
 }
-
 /*================================================================================
          2ème année (2019/2020) : 
 ==================================================================================*/
+.Polygon_2 {
+    margin-bottom: 3rem;
+}
 .card_seconde_annee {
     background-color: rgba(197, 50, 50, 0.74);
     color: white;
-    font-family: Stardos Stencil;
+    font-family: "Stardos";
     text-align: center;
     width: 35rem;
     height: 35rem;
     border-radius: 20%;
     border-color: transparent;
     padding-top: 3rem;
-
 }
-
 /*================================================================================
 card_paragraphe
 ==================================================================================*/
@@ -85,7 +92,7 @@ card_paragraphe
 }
 .card_paragraphe {
     background-color: transparent;
-    font-family: Stardos Stencil;
+    font-family: "Stardos";
     color: #000;
     text-align: center;
     width: 40rem;
@@ -98,8 +105,6 @@ card_paragraphe
     left: 0;
     bottom: 0;
 }
-
-
 /*================================================================================
 card_objectif
 ==================================================================================*/
@@ -109,7 +114,7 @@ card_objectif
 .card_objectif {
     background-color:  #862323;
     color: white;
-    font-family: Stardos Stencil;
+    font-family: "Stardos";
     width: 35rem;
     border-color: transparent;
     left: 4rem;

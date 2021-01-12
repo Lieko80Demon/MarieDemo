@@ -1,0 +1,172 @@
+@font-face {
+    font-family: "Stardos";
+    src: url("StardosStencil-Regular.ttf") format("truetype");
+   }
+
+body {
+    background-color: #1e4566;
+    background-image: url(20181016_081125_1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+}
+/*================================================================================
+Programme
+==================================================================================*/
+.card-profil {
+    font-size: 4rem;
+}
+.card_page {
+    background-color: transparent;
+    color: black;
+    font-family: "Stardos";
+    font-weight: bold;
+    text-align: right;
+    border-color: transparent;
+    top: 20px;
+    margin-bottom: 5rem;
+}
+.Ellipse_17 {
+    position: absolute;
+    right: 0;
+}
+/*================================================================================
+Culture économique,
+==================================================================================*/
+.card-economique {
+    font-size: 2rem;
+}
+.title-economique {
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.card_economique-body {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black;
+    font-family: "Stardos";
+    border-color: transparent;
+    border-radius: 50%;
+    width: 700px;
+    height: 450px;
+    padding-left: 7rem;    
+}
+/*================================================================================
+Contribution à la gestion RH
+==================================================================================*/
+.card-contribution {
+    font-size: 2rem;
+}
+.title-contribution {
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.bloc3{
+    font-size: 2rem;
+    padding-left: 13rem;
+}
+.card_contribution-body {
+    background-color: #EAC91E;
+    color: black;
+    font-family: "Stardos";
+    border-color: transparent;
+    border-radius: 50%;
+    width: 700px;
+    height: 550px;
+    padding-left: 6rem;  
+    margin-top: 15rem;  
+}
+/*================================================================================
+Langues vivantes A et B
+==================================================================================*/
+.card-langues {
+    font-size: 2rem;
+}
+.title-langues {
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.card_langues-body {
+    background-color:#C53232;
+    color: white;
+    font-family: "Stardos";
+    border-color: transparent;
+    border-radius: 50%;
+    width: 700px;
+    height: 450px;
+    padding-left: 7rem;    
+    margin-top: -5rem;
+}
+/*================================================================================
+Gestion de projet
+==================================================================================*/
+.card-gestion {
+    font-size: 2rem;
+}
+.title-gestion {
+    font-weight: bold;
+    font-size: 2.5rem;
+    padding-left: 5rem;
+    }
+.bloc2{
+    font-size: 2rem;
+    padding-left: 12rem;
+}
+.card_gestion-body {
+    background-color: #C4C4C4;
+    color: black;
+    font-family: "Stardos";
+    border-color: transparent;
+    border-radius: 50%;
+    width: 700px;
+    height: 600px;
+    padding-left: 7rem;   
+    margin-top: 15rem;   
+}
+/*================================================================================
+Culture générale et expression
+==================================================================================*/
+.card-generale {
+    font-size: 2rem;
+}
+.title-generale {
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.card_generale-body {
+    background-color:#EAC31E;
+    color: black;
+    font-family: "Stardos";
+    border-color: transparent;
+    border-radius: 50%;
+    width: 700px;
+    height: 400px;
+    padding-left: 7rem;   
+    margin-top: -5rem; 
+}
+/*================================================================================
+Optimisation des processus
+==================================================================================*/
+.card-optimisation {
+    font-size: 2rem;
+}
+.title-optimisation {
+    font-weight: bold;
+    font-size: 2.5rem;
+    text-align: center;
+    padding-right: 6rem;
+}
+.bloc1{
+    font-size: 2rem;
+    padding-left: 14rem;
+}
+.card_optimisation-body {
+    background-color: #C53232;
+    color: white;
+    font-family: "Stardos";
+    border-color: transparent;
+    border-radius: 50%;
+    width: 750px;
+    height: 650px;
+    padding-left: 7rem;    
+    margin-top: 15rem;  
+}
