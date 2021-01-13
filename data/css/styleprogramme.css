@@ -1,13 +1,13 @@
 @font-face {
     font-family: "Stardos";
-    src: url("StardosStencil-Regular.ttf") format("truetype");
+    src: url("fonts/StardosStencil-Regular.ttf") format("truetype");
    }
 ul {
     list-style-type: none; 
 }
 body {
     background-color: #1e4566;
-    background-image: url(20181016_081125_1.png);
+    background-image: url(programme/20181016_081125_1.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: top;
@@ -942,7 +942,7 @@ competence qualiter et la photo
     body {
         
         background-color: #1e4566;
-        background-image: url(1c41cbc0dc73c7e6bd381b19898679f7.jpg);
+        background-image: url(index/1c41cbc0dc73c7e6bd381b19898679f7.jpg);
         background-repeat: no-repeat;
         background-size: cover;
     }
