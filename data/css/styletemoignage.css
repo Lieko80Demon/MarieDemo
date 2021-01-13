@@ -1,0 +1,152 @@
+@font-face {
+    font-family: "Stardos";
+    src: url("fonts/StardosStencil-Regular.ttf") format("truetype");
+   }
+body {
+    background-image: url(temoignage/IMG_5274_1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+}
+#avertissement {
+	display: none;
+}
+.Ellipse_37 {
+    position: absolute;
+    left: 18rem;
+    top: 65rem;
+}
+.Ellipse_38 {
+    position: absolute;
+    left: 68rem;
+    top: 75rem;    
+}
+.Ellipse_35 {
+    position: absolute;
+    left: 37rem;
+    top: 94rem;
+}
+.Ellipse_36 {
+    position: absolute;
+    left: 81rem;
+    top: 115rem;
+}
+.Ellipse_39 {
+    position: absolute;
+    left: 22rem;
+    top: 113rem;
+}
+.Ellipse_23 {
+    position: absolute;
+    left: 35rem;
+    top: 122rem;
+}
+.Ellipse_24 {
+    position: absolute;
+    left: 81rem;
+    top: 156rem;
+}
+.Ellipse_25 {
+    position: absolute;
+    right: 0;
+    top: 178rem;
+}
+.Ellipse_26 {
+    position: absolute;
+    left: 31rem;
+    top: 188rem;
+}
+.Ellipse_28 {
+    position: absolute;
+    left: 59rem;
+    top: 206rem;
+}
+.Ellipse_29 {
+    position: absolute;
+    left: 25rem;
+    top: 228rem;
+}
+.Ellipse_30 {
+    position: absolute;
+    left: 41rem;
+    top: 250rem;
+}
+.Ellipse_31 {
+    position: absolute;
+    left: 3rem;
+    top: 266rem;
+}
+.Ellipse_22 {
+    position: absolute;
+    right: 0;
+    top: 256rem;
+}
+.Ellipse_32 {
+    position: absolute;
+    left: 75rem;
+    top: 275rem;
+}
+.Ellipse_33 {
+    position: absolute;
+    left: 31rem;
+    top: 312rem;
+}
+.Ellipse_34 {
+    position: absolute;
+    left: 31rem;
+    top: 275rem;    
+    }
+
+/*================================================================================
+Temoignages
+==================================================================================*/
+.card-profil {
+    font-size: 4rem;
+}
+.card_page {
+    background-color: transparent;
+    color: white;
+    font-family: "Stardos";
+    font-weight: bold;
+    text-align: right;
+    border-color: transparent;
+    top: 20px;
+    margin-bottom: 5rem;
+}
+.Ellipse_19 {
+    position: absolute;
+    right: 0;
+    width: 25rem;
+}
+
+
+/*====================================================================================================================================================================================================*/
+@media screen and (min-width: 992px) and (max-width: 1200px){
+}
+/*====================================================================================================================================================================================================*/
+@media screen and (min-width: 768px) and (max-width: 992px){
+}
+/*====================================================================================================================================================================================================*/
+@media only screen and (max-width: 767px) and (orientation:portrait) {
+    #wrapper {
+        display: none;
+    }
+    #avertissement {
+        display: block;
+        color: white;
+        font-size: xx-large;
+        font-weight: bold;
+    }
+    body {
+        
+        background-color: #1e4566;
+        background-image: url(index/1c41cbc0dc73c7e6bd381b19898679f7.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    }
+@media screen and (max-width: 767px) and (orientation:landscape){
+    #avertissement {
+        display: none;
+    }
+}
