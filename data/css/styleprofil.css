@@ -116,16 +116,17 @@ card_objectif
     font-size: 3rem;
 }
 .card_objectif {
-    background-color:  #862323;
+    background-color:  transparent;
     color: white;
     font-family: "Stardos";
     width: 35rem;
     border-color: transparent;
     left: 4rem;
-    margin-top: 15rem;
+    margin-top: 8rem;
 }
 .Objectifs {
     text-align: center;
+    background-color:  #862323;
 }
 .drapeaux {
     margin-left: 3rem;
@@ -245,16 +246,18 @@ card_objectif
         font-size: 1.8rem;
     }
     .card_objectif {
-        background-color:  #862323;
+        background-color:  transparent;
         color: white;
         font-family: "Stardos";
         width: 20rem;
         border-color: transparent;
         left: 4rem;
-        margin-top: 5rem;
+        margin-top: 2rem;
     }
     .Objectifs {
         text-align: center;
+        background-color:  #862323;
+
     }
     .drapeaux {
         margin-left: 1rem;
@@ -382,16 +385,17 @@ card_objectif
         font-size: 1.5rem;
     }
     .card_objectif {
-        background-color:  #862323;
+        background-color:  transparent;
         color: white;
         font-family: "Stardos";
         width: 18rem;
         border-color: transparent;
         left: 4rem;
-        margin-top: 3rem;
+        margin-top: 2rem;
     }
     .Objectifs {
         text-align: center;
+        background-color:  #862323;
     }
     .drapeaux {
         margin-left: 0.1rem;
@@ -540,7 +544,7 @@ card_objectif
         font-size: 1.2rem;
     }
     .card_objectif {
-        background-color:  #862323;
+        background-color:  transparent;
         color: white;
         font-family: "Stardos";
         width: 15rem;
@@ -550,6 +554,7 @@ card_objectif
     }
     .Objectifs {
         text-align: center;
+        background-color:  #862323;
     }
     .drapeaux {
         margin-left: 0.1rem;
