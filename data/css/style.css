@@ -2,6 +2,9 @@
     font-family: "Stardos";
     src: url("StardosStencil-Regular.ttf") format("truetype");
    }
+   #avertissement {
+	display: none;
+}
 
 .btn {
     font-family: "Stardos";
@@ -34,7 +37,7 @@
 .danscard{
     font-size: 25px;
 }
-
+/*====================================================================================================================================================================================================*/
 @media screen and (min-width: 992px) and (max-width: 1200px){
     .btn {
         font-family: "Stardos";
@@ -53,6 +56,7 @@
         margin-bottom: 0rem;
     }
 }
+/*====================================================================================================================================================================================================*/
 @media screen and (min-width: 768px) and (max-width: 992px){
     .btn {
         font-family: "Stardos";
@@ -71,8 +75,29 @@
         margin-bottom: 0rem;
     }
 }
-@media screen and (max-width: 767px){
-    .btn {
+/*====================================================================================================================================================================================================*/
+@media only screen and (max-width: 767px) and (orientation:portrait) {
+    #wrapper {
+        display: none;
+    }
+    #avertissement {
+        display: block;
+        color: white;
+        font-size: xx-large;
+        font-weight: bold;
+    }
+    body {
+        
+        background-color: #1e4566;
+        background-image: url(1c41cbc0dc73c7e6bd381b19898679f7.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    }
+@media screen and (max-width: 767px) and (orientation:landscape){
+    #avertissement {
+        display: none;
+    }    .btn {
         font-family: "Stardos";
         font-size: 10px;
         line-height: 20px;
