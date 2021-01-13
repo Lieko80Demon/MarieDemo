@@ -170,3 +170,127 @@ Optimisation des processus
     padding-left: 7rem;    
     margin-top: 15rem;  
 }
+/*================================================================================
+stages
+==================================================================================*/
+.card-stage{
+    background-color: transparent;
+    border-color: transparent;
+    font-family: "Stardos";
+    color: white;
+    font-size: xx-large;
+    margin-top: 5rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.stage{
+    font-size: 3rem;
+    text-align: right;
+    padding-right: 10rem;
+}
+/*================================================================================
+photos
+==================================================================================*/
+.photo {
+    background-color: black;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+.ligne-1 {
+    text-align: center;
+    padding-bottom: 3rem;
+}
+.ligne-2 {
+    text-align: center;
+}
+/*================================================================================
+card stage
+==================================================================================*/
+.card-janvier-body {
+    font-family: "Stardos";
+    border-color: transparent;
+    background-color:  #C53232;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    padding-left: 3rem; 
+    padding-right: 3rem;   
+}
+.card-juin-body {
+    font-family: "Stardos";
+    border-color: transparent;
+    background-color:  #C4C4C4;
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    padding-left: 3rem; 
+    padding-right: 3rem;   
+}
+.card-novembre-body {
+    font-family: "Stardos";
+    border-color: transparent;
+    background-color:  #EAC91E;
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    padding-left: 3rem; 
+    padding-right: 3rem;   
+}
+.para {
+    font-family: "Stardos";
+    font-size: xx-large;
+    margin-top: 2rem;
+}
+/*================================================================================
+competence qualiter et la photo
+==================================================================================*/
+.titrephoto {
+    font-family: "Stardos";
+    margin-top: 2rem;
+}
+.compquali {
+    font-size: 4rem;
+    text-align: center;
+}
+.comphoto {
+    padding-top: 2rem;
+    text-align: center;
+
+}
+.Ellipse_1 {
+    position: absolute;
+    left: 0;
+    margin-top: -5rem;
+    width: 100rem;
+}
+.card_paragraphe {
+    background-color:transparent;
+    font-family: "Stardos";
+    border: none;
+    font-size: xx-large;
+}
+.card_paragraphe2 {
+    background-color:transparent;
+    font-family: "Stardos";
+    border: none;
+    font-size: large;
+}
+
+.Ellipse_16 {
+    position: absolute;
+    right: 0;
+    margin-top: -10rem;
+    width: 30rem;
+}
+
