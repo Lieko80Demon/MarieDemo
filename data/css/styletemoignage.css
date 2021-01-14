@@ -91,13 +91,13 @@ font a bulle
 }
 .Ellipse_33 {
     position: absolute;
-    left: 31rem;
-    top: 320rem;
+    left: 25rem;
+    top: 310rem;
 }
 .Ellipse_34 {
     position: absolute;
     left: 31rem;
-    top: 295rem;    
+    top: 290rem;    
 }
 /*================================================================================
 Temoignages titre
@@ -250,14 +250,14 @@ temoignage paragraphes
     }
     .Ellipse_33 {
         position: absolute;
-        left: 25rem;
-        top: 195rem;
+        left: 13rem;
+        top: 192rem;
         width: 12rem;
     }
     .Ellipse_34 {
         position: absolute;
-        left: 22rem;
-        top: 178rem;   
+        left: 15rem;
+        top: 172rem;   
         width: 10rem; 
     }
     /*================================================================================
@@ -418,13 +418,13 @@ temoignage paragraphes
     .Ellipse_32 {
         position: absolute;
         left: 33rem;
-        top: 164rem;
+        top: 168rem;
         width: 14rem;
     }
     .Ellipse_33 {
         position: absolute;
-        left: 15rem;
-        top: 188rem;
+        left: 13rem;
+        top: 184rem;
         width: 10rem;
     }
     .Ellipse_34 {
@@ -522,5 +522,173 @@ temoignage paragraphes
     #avertissement {
         display: none;
     }
-
+    /*================================================================================
+    font a bulle
+    ==================================================================================*/
+    .Ellipse_37 {
+        position: absolute;
+        left: 15rem;
+        top: 29rem;
+        width: 4rem;
+    }
+    .Ellipse_38 {
+        position: absolute;
+        left: 31rem;
+        top: 33rem;  
+        width: 10rem;  
+    }
+    .Ellipse_35 {
+        position: absolute;
+        left: 20rem;
+        top: 40rem;
+        width: 10rem;
+    }
+    .Ellipse_36 {
+        position: absolute;
+        left: 35rem;
+        top: 58rem;
+        width: 6rem;
+    }
+    .Ellipse_39 {
+        position: absolute;
+        left: 13rem;
+        top: 58rem;
+        width: 5rem;
+    }
+    .Ellipse_23 {
+        position: absolute;
+        left: 16rem;
+        top: 62rem;
+        width: 10rem;
+    }
+    .Ellipse_24 {
+        position: absolute;
+        left: 30rem;
+        top: 75rem;
+        width: 9rem;
+    }
+    .Ellipse_25 {
+        position: absolute;
+        right: 0;
+        top: 88rem;
+        width: 3rem;
+    }
+    .Ellipse_26 {
+        position: absolute;
+        left: 10rem;
+        top: 94rem;
+        width: 8rem;
+    }
+    .Ellipse_28 {
+        position: absolute;
+        left: 27rem;
+        top: 100rem;
+        width: 12rem;
+    }
+    .Ellipse_29 {
+        position: absolute;
+        left: 13rem;
+        top: 110rem;
+        width: 8rem;
+    }
+    .Ellipse_30 {
+        position: absolute;
+        left: 20rem;
+        top: 120rem;
+        width: 10rem;
+    }
+    .Ellipse_31 {
+        position: absolute;
+        left: 3rem;
+        top: 127rem;
+        width: 8rem;
+    }
+    .Ellipse_22 {
+        position: absolute;
+        right: 0;
+        top: 125rem;
+        width: 2rem;
+    }
+    .Ellipse_32 {
+        position: absolute;
+        left: 30rem;
+        top: 144rem;
+        width: 10rem;
+    }
+    .Ellipse_33 {
+        position: absolute;
+        left: 12rem;
+        top: 151rem;
+        width: 8rem;
+    }
+    .Ellipse_34 {
+        position: absolute;
+        left: 12rem;
+        top: 135rem;   
+        width: 10rem; 
+    }
+    /*================================================================================
+    Temoignages titre
+    ==================================================================================*/
+    .card-profil {
+        font-size: 2.2rem;
+    }
+    .card_page {
+        background-color: transparent;
+        color: white;
+        font-family: "Stardos";
+        font-weight: bold;
+        text-align: right;
+        border-color: transparent;
+        top: 20px;
+        margin-bottom: 5rem;
+    }
+    .Ellipse_19 {
+        position: absolute;
+        right: 0;
+        width: 15rem;
+    }
+    /*================================================================================
+    temoignage paragraphes
+    ==================================================================================*/
+    .clea {
+        margin-top: 28rem;
+        font-family: "Stardos";
+        font-size: small;
+        color: black;
+        margin-right:0rem;
+    }
+    .dubai {
+        width: 16rem;
+    }
+    .antoine {
+        margin-top: 2rem;
+        font-family: "Stardos";
+        font-size: small;
+        color: black;
+        margin-right: 0rem;
+    }
+    .malte{
+        width: 16rem;
+    }
+    .emma {
+        margin-top: 2rem;
+        font-family: "Stardos";
+        font-size: small;
+        color: black;
+        margin-right: 0rem;
+    }
+    .kushu{
+        width: 16rem;
+    }
+    .nikita {
+        margin-top: 2rem;
+        font-family: "Stardos";
+        font-size: small;
+        color: black;
+        margin-right: 0rem;
+    }
+    .mexique{
+        width: 16rem;
+    }
 }
