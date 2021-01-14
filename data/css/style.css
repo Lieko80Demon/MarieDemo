@@ -2,10 +2,9 @@
     font-family: "Stardos";
     src: url("fonts/StardosStencil-Regular.ttf") format("truetype");
    }
-   #avertissement {
+#avertissement {
 	display: none;
 }
-
 .btn {
     font-family: "Stardos";
     font-size: 20px;
@@ -97,7 +96,8 @@
 @media screen and (max-width: 767px) and (orientation:landscape){
     #avertissement {
         display: none;
-    }    .btn {
+    }    
+    .btn {
         font-family: "Stardos";
         font-size: 10px;
         line-height: 20px;
